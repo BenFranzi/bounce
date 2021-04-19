@@ -1,0 +1,11 @@
+{
+  "name": "bounce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bounce.js",
+  "scripts": {
+    "start": "npx serve"
+  },
+  "author": "",
+  "license": "ISC"
+}
