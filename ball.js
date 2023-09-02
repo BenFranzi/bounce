@@ -12,7 +12,7 @@ class Ball {
 
   constructor({
       color = 'green',
-      gravity = 9.8,
+      gravity = .98,
       bounce = .5,
       dampening= .1,
       friction= .1,
